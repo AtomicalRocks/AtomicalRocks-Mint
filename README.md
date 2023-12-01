@@ -27,5 +27,5 @@ Example:
 yarn cli mint-item "#atomicalrocks" "2" "C:\Users\AtomicalRocks\Desktop\item-2.json" --satsbyte=60
 ```
 
-###Done
+### Done
 Once your transaction is confirmed in the mempool, you will receive your AtomicalRock at your primary address.
