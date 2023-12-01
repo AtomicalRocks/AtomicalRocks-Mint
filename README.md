@@ -6,10 +6,9 @@ This tutorial is for those who already have the Atomicals environment installed.
 ### Step 1
 Before attempting to mint any AtomicalRocks, you have to check the already minted items:
 
+In your command line use get-container-items to query minted items (limit specifies the number of entries, suggested value is 10; offset indicates the starting point for the query, suggested value is 0).
 ```
-Use get-container-items to query minted items (limit specifies the number of entries, suggested value is 10; offset indicates the starting point for the query, suggested value is 0).
-
-$ yarn cli get-container-items "#atomicalrocks" limit offset
+yarn cli get-container-items "#atomicalrocks" limit offset
 ```
 ### Step 2
 We have a total supply of 100 Atomicals Rocks.
