@@ -8,7 +8,7 @@ We have a total supply of 100 Atomicals Rocks.
 To mint, you need to download the .json file of the item you want to mint.
 You can find all 100 .json files here: https://github.com/AtomicalRocks/AtomicalRocks-Mint/tree/main/Rocks.
 
-## Before attempting to mint any AtomicalRocks, you have to check if the item you want to mint is available.
+ Before attempting to mint any AtomicalRocks, you have to check if the item you want to mint is available.
  Query the status of a single item:
 Replace "item-name" with the number of the .json file you want to download.
 ```
