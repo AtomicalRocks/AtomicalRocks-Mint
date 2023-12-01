@@ -29,3 +29,7 @@ yarn cli mint-item "#atomicalrocks" "2" "C:\Users\AtomicalRocks\Desktop\item-2.j
 
 ### Done
 Once your transaction is confirmed in the mempool, you will receive your AtomicalRock at your primary address.
+
+
+https://github.com/AtomicalRocks/AtomicalRocks-Mint/assets/152573251/dfdd7316-cd41-40bb-8f8b-cc6f29c15b8c
+
