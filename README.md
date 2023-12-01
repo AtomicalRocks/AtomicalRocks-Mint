@@ -18,7 +18,7 @@ yarn cli get-container-item "#atomicalrocks" "item-name"
 ### Step 2
 In your command line, run the following command:
 ```
-yarn cli mint-item "#atomicalrocks" "item-name" "path/to/item-name.json" --satsbyte=1
+yarn cli mint-item "#atomicalrocks" "item-name" "path/to/item-name.json" --satsbyte=60
 ```
 Replace "item-name" with the number of the .json file you downloaded earlier.
 
